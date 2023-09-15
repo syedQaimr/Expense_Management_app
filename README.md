@@ -27,7 +27,7 @@ Expense Management System (EMS), there are some functional requirements you may 
 •	Real-time Expense Tracking: Display real-time expense tracking and balances.  
 •	Reporting and Analytics: Offer various pre-defined and custom reports for insights.  
 
-###Technology:  
+### Technology:  
 Flutter 
 Dart Language
 
