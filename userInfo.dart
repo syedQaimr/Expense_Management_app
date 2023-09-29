@@ -39,11 +39,15 @@ const List<Transaction> transaction2 = [
       "Transfer from Qaim", "Rs 100,000.00", "Oct, 2"),
   Transaction(ItemCategoryType.grocery, TransactionType.outflow, "Food", "KFC",
       "Rs 1500", "Oct, 10"),
+  Transaction(ItemCategoryType.payments, TransactionType.outflow, "Rent",
+      "Transfer from Qaim", "Rs 100,000.00", "Oct, 2"),
+  Transaction(ItemCategoryType.fashion, TransactionType.outflow, "Clothing",
+      "Blazer", "Rs 1500", "Oct, 10"),
 ];
 
 const userdata = userInfo(
     name: "Shehroz",
-    totalBalance: "Rs 200,000.00",
-    inflow: "Rs 180,000.00",
-    outflow: "Rs 70,000",
+    totalBalance: "200,000.00",
+    inflow: "180,000.00",
+    outflow: "70,000",
     transactions: transaction1);
