@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1033427642660",
+    "project_id": "expense-tracker-app-cfc4a",
+    "storage_bucket": "expense-tracker-app-cfc4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033427642660:android:2979e584669074ce86ebb1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033427642660-j6t6vdktcphokqoctnbv38didlqo0l1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app",
+            "certificate_hash": "fdc4ec54293750bfe75a6175db8ec9475043db82"
+          }
+        },
+        {
+          "client_id": "1033427642660-s918odqakb52ua200mbgtvjra34stlp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-WfZPT7pG0eCRngjJDEgTH63dqCX5IQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033427642660-s918odqakb52ua200mbgtvjra34stlp9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1033427642660-3hc93efk0314qc05anmmb6efsnpff5c0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
